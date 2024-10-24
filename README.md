@@ -1,6 +1,8 @@
 # TraderBot
 Build a trader bot which looks at sentiment of live news events and trades appropriately. 
+
 • Engineered an AI trading bot using Python, TensorFlow, and BERT for real-time sentiment analysis of financial news and social media, combining insights with LSTMs and technical indicators. Achieved a 15% increase in trade accuracy by dynamically adjusting strategies based on sentiment trends. 
+
 • Deployed on Binance via automated APIs, with backtesting results showing a 10% boost in average returns and reduced drawdowns. Delivered rapid, data-driven trading recommendations that effectively adapt to market shifts. 
 
 # Startup
